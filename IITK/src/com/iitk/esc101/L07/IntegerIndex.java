@@ -1,7 +1,7 @@
 package com.iitk.esc101.L07;
 
 // lecture 7
-// testin vs code iitk
+
 public class IntegerIndex{
 
 	public static void main(String[] args) {
